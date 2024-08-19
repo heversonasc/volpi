@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832041177800",
+    "project_id": "volpi-authentication",
+    "storage_bucket": "volpi-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832041177800:android:7c47cda0a59e7cf0860bfd",
+        "android_client_info": {
+          "package_name": "com.hasc.volpi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0a23mFvEQmoZsP-rq6bhm_rRVh_97Gac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">volpi</string>
+    <string name="bordao">É rápido, é fácil, é Volpi!</string>
+    <string name="frase">Seu app que te leva aos principais serviços de atendimento com apenas um toque.</string>
+    <string name="et_email_text">Digite seu email</string>
+    <string name="et_password_text">Digite sua senha</string>
+    <string name="btn_sign_in_text"><font color="#000000">Login</font></string>
+    <string name="access">Acessar</string>
+    <string name="createAccount">Criando Conta</string>
+    <string name="create_account_text">Não tem uma conta? <font color="#000000"><b>Cadastre-se</b></font></string>
+    <string name="pleaseLogin">Por favor, faça login para continuar</string>
+    <string name="pleaseRegister">Por favor, preencha os dados a seguir.</string>
+    <string name="btn_create_account_text">Criar conta</string>
+    <string name="et_confirm_password">Confirme sua senha</string>
+    <string name="text_central">É fácil, é rápido é <font color="#000000"><i>Volpi!</i></font></string>
+    <string name="text_bottom_central">Seu app que te <font color="#000000"><b>encaminha</b></font> aos principais serviços de atendimento com <font color="#000000"><b>apenas um toque.</b></font></string>
+    <string name="start_home">Começar</string>
+    <string name="developer_by">Powered by</string>
+    <string name="description">bottom</string>
+    <string name="start">Começar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
